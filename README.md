@@ -1,3 +1,4 @@
+![Workflow Status](https://github.com/maxxxonchikipiki/o/roman-numbers-calculator/actions/workflows/classroom.yml/badge.svg)
 # Калькулятор римских чисел
 
 Написать калькулятор арифметических выражений с римскими цифрами.
