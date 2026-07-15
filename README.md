@@ -1,4 +1,6 @@
 ![Workflow Status](https://github.com/maxxxonchikipiki/roman-numbers-calculator/actions/workflows/classroom.yml/badge.svg)
+
+Данный репозиторий - копия закрытого учебного репозитория учебной программы 1-го курса (1-го семестра) факультета ПМ-ПУ СПбГУ
 # Калькулятор римских чисел
 
 Написать калькулятор арифметических выражений с римскими цифрами.
